@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# GDevelop
+.json
+.js
+.html
+.gd
+
+# RFGE (RetroFutureGameEngine)
+.rfge
+.gamesimulation
