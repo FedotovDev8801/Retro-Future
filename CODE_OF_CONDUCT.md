@@ -11,7 +11,7 @@ Respect different opinions, cultures, and backgrounds. The community should be w
 2. Fair Play
 
 Do not exploit or cheat in the game. This includes using unauthorized modifications, hacks, bots, or any software that gives you an unfair advantage.
-Any actions that negatively impact the experience of others, such as griefing, cheating, or sabotaging, are prohibited.
+Any actions that negatively impact the experience of others, such as griefing, cheating, or sabotaging, are prohibited. Exception: Cheats in singleplayer.
 
 3. Content Guidelines
 
